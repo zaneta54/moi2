@@ -1,0 +1,23 @@
+h1{
+    color: bisque;
+}
+.header{
+    background-color: thistle;
+    display:flex;
+   justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+p,h2{
+    text-align: center ;
+}
+body{
+    background-image: url("th\ \(4\).jpg");
+}
